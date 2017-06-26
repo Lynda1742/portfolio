@@ -1,0 +1,71 @@
+header {
+  color: rgb(32, 43, 61);
+  font-size: 20px;
+  font-style: normal;
+  padding-bottom: 20px;
+}
+.topper{
+  position: fixed;
+  left: 0;
+  top: 10px;
+  background-color: rgba(0, 0, 0, 0.71);
+  color: rgb(50, 205, 255);
+  width: 100%;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navi {
+  position: fixed;
+  text-align: center;
+  margin-top: 80px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: white;
+  left: 0;
+  width: 100%;
+}
+nav a {
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: underline;
+}
+nav a:hover {
+  background: black;
+}
+.picture {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.stereo_title {
+  color: rgb(32, 13, 48);
+  font-size: 20px;
+  padding-left: 50px;
+}
+.general_info {
+  color: rgb(44, 38, 66);
+  font-size: 15px;
+  padding: 20;
+  text-align: center;
+}
+.main {
+  margin-top: 125px;
+}
+.contact {
+  background-color: rgba(0, 0, 0, 0.71);
+  color:rgb(255, 255, 255);
+  font-style: italic;
+  position: fixed;
+  bottom: 0px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+body{
+  background-color: rgba(30, 44, 153, 0.7);
+}
